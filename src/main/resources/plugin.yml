@@ -1,0 +1,5 @@
+name: HideMyIPAddress
+main: me.systemencryption.hmipa.bukkit.HMIPA
+version: 1
+author: SystemEncryption
+api-version: 1.13

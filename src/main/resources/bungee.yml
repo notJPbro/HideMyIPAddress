@@ -1,0 +1,4 @@
+name: HideMyIPAddress
+main: me.systemencryption.hmipa.bungee.HMIPA
+version: 1
+author: SystemEncryption
